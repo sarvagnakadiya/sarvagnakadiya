@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sarvagnakadiya
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning solidity
+- 👨‍💻 I like to make smart contracts for Dapps
 
 <!---
 sarvagnakadiya/sarvagnakadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
