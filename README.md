@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarvagnakadiya
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m a blockchain enthusiast.
-- 👨‍💻 I like to make smart contracts for Dapps. 
-\n [check out my linkedIn profile](https://www.linkedin.com/in/sarvagnakadiya/)
+- 👨‍💻 I like to make smart contracts for Dapps.\
+[check out my linkedIn profile](https://www.linkedin.com/in/sarvagnakadiya/)
 
 <!---
 sarvagnakadiya/sarvagnakadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
