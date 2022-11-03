@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sarvagnakadiya
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m a blockchain enthusiast.
-- 👨‍💻 I like to make smart contracts for Dapps.\
-- 
+- 👨‍💻 I like to make smart contracts for Dapps.\n
 [linkedIn](https://www.linkedin.com/in/sarvagnakadiya/)
 
 <!---
