@@ -2,6 +2,7 @@
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m a blockchain enthusiast.
 - 👨‍💻 I like to make smart contracts for Dapps.\
+- 
 [linkedIn](https://www.linkedin.com/in/sarvagnakadiya/)
 
 <!---
