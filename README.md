@@ -1,25 +1,14 @@
 # Sarvagna Kadiya
-portfolio: https://sarvagna.vercel.app/
+Portfolio: https://sarvagna.vercel.app/
 
 ## About Me
-Hey there, I'm Sarvagna Kadiya, a blockchain enthusiast 🌟 always learning and tinkering with new tech.
+Hey there, I'm **Sarvagna Kadiya**, a blockchain enthusiast 🌟 always learning and tinkering with new tech.
 I'm passionate about crafting decentralized apps and smart contracts, constantly exploring ways to make them more secure and efficient.
 I love diving into the latest EIPs and devouring security terms in the blockchain space.
 Also actively developing projects around AI.
 
 ## Skills
-- Solidity
-- Rust
-- Javascript
-- Typescript
-- Python
-- Flask APIs
-- React.js
-- Next.js
-- Vite.js
-- Node.js
-- Express APIs
-- MongoDB
+- Solidity | Rust | Javascript | Typescript | Python | Flask APIs | React.js | Next.js | Vite.js | Node.js | Express APIs | MongoDB
 
 ## Education
 - **Graduate School of Engineering and Technology GTU**  
