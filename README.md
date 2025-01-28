@@ -1,5 +1,5 @@
 # Sarvagna Kadiya
-Portfolio: https://sarvagna.vercel.app/
+Portfolio: https://sarvagna.sqrtlabs.com/
 
 ## About Me
 Hey there, I'm **Sarvagna Kadiya**, a blockchain enthusiast 🌟 always learning and tinkering with new tech.
