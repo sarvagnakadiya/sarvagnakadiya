@@ -1,14 +1,12 @@
 # Sarvagna Kadiya
 Portfolio: https://sarvagna.sqrtlabs.com/
 
-## About Me
-Hey there, I'm **Sarvagna Kadiya**, a blockchain enthusiast 🌟 always learning and tinkering with new tech.
-I'm passionate about crafting decentralized apps and smart contracts, constantly exploring ways to make them more secure and efficient.
-I love diving into the latest EIPs and devouring security terms in the blockchain space.
-Also actively developing projects around AI.
-
-## Skills
-- Solidity | Rust | Javascript | Typescript | Python | Flask APIs | React.js | Next.js | Vite.js | Node.js | Express APIs | MongoDB
+hullo!
+gm, I'm Sarvagna Kadiya; buildor, developor, and an aspiring web3 foundor who totally believes
+their product will change the world (or at least make a dent) (eventually).
+Defi, AI, payments, crypto—yap; Cars, F1—yap-yap-yap
+I’m your go-to yap buddy for all things buzzword-worthy.
+Awkward on socials, extrovert IRL (yeah, it’s a vibe)
 
 
 <!---
